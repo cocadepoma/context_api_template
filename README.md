@@ -1,3 +1,3 @@
-# Context API template
+# React Context API template
 
 ## Just trying things
